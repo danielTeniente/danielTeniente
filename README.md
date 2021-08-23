@@ -21,7 +21,7 @@ Mi nombre es Daniel Díaz, soy de Ecuador y me gradué como Ingeniero en sistema
 🔭 Actualmente trabajo en...
  * Programación competitiva: Tengo una [guía de programación](https://github.com/danielTeniente/guia_de_competencia#readme) en español.
  * Inteligencia artificial y ciencias de datos: Tengo un [repositorio de proyectos](https://github.com/danielTeniente/ia-projects#readme) con algunos notebooks donde explico estos temas.
- * Python en genearl: Me gusta Python, es mi lenguaje de programación principal.
+ * Python en general: Me gusta Python, es mi lenguaje de programación principal.
 
 🌱 Estoy interesado en...
 * Ciberseguridad
