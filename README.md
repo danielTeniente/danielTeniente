@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 Mi nombre es Daniel Díaz, soy de Ecuador y me gradué como Ingeniero en sistemas. 
 
 🔭 Actualmente trabajo en...
- * Programación competitiva: Tengo una [guía de programación](https://github.com/danielTeniente/guia_de_competencia) en español.
- * Inteligencia artificial y ciencias de datos: Tengo un [repositorio de proyectos](.https://github.com/danielTeniente/ia-projects) con algunos notebooks donde explico estos temas.
+ * Programación competitiva: Tengo una [guía de programación](https://github.com/danielTeniente/guia_de_competencia#readme) en español.
+ * Inteligencia artificial y ciencias de datos: Tengo un [repositorio de proyectos](https://github.com/danielTeniente/ia-projects#readme) con algunos notebooks donde explico estos temas.
  * Python en genearl: Me gusta Python, es mi lenguaje de programación principal.
 
 🌱 Estoy interesado en...
@@ -31,7 +31,8 @@ Mi nombre es Daniel Díaz, soy de Ecuador y me gradué como Ingeniero en sistema
 * Software libre
 
 ⚡ Proyecto de titulación
-* Mi [proyecto capstone](https://github.com/danielTeniente/proyecto_capstone) trata sobre visión artificial y teoría de grafos. Implementa un contador automático de vehículos para modelar el tráfico de la ciudad.
+* Mi [proyecto capstone](https://github.com/danielTeniente/proyecto_capstone#readme) trata sobre visión artificial y teoría de grafos. Implementa un contador automático de vehículos para modelar el tráfico de la ciudad.
+* También preparé un [taller sobre detección de objetos](https://github.com/danielTeniente/tallerIA_detection#readme) para mi universidad.
 
 
 [EN]
