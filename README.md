@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 [ES]
 Mi nombre es Daniel Díaz, soy de Ecuador y me gradué como Ingeniero en sistemas. 
+
 🔭 Actualmente trabajo en...
  * Programación competitiva: Tengo una [guía de programación](https://github.com/danielTeniente/guia_de_competencia) en español.
  * Inteligencia artificial y ciencias de datos: Tengo un [repositorio de proyectos](.https://github.com/danielTeniente/ia-projects) con algunos notebooks donde explico estos temas.
@@ -35,6 +36,7 @@ Mi nombre es Daniel Díaz, soy de Ecuador y me gradué como Ingeniero en sistema
 
 [EN]
 My name is Daniel Díaz, I'm from Ecuador and I'm a Software Engineer. 
+
 🔭 I’m currently working on...
  * Competitive Programming.
  * Artificial Intelligence and Data Science projects.
