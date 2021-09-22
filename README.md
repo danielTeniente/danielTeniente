@@ -50,4 +50,6 @@ My name is Daniel Díaz, I'm from Ecuador and I'm a Software Engineer.
 * Math
 * Free Software
 
+⚡ Capstone Project
+* My capstone project was about computer vision and graph theory. I implemented an automatic vehicle counter to model urban traffic. All jupyter notebooks are in spanish, though.
 
