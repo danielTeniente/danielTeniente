@@ -21,6 +21,7 @@ Mi nombre es Daniel Díaz, soy de Ecuador y me gradué como Ingeniero en sistema
 🔭 Actualmente trabajo en...
  * Programación competitiva: Tengo una [guía de programación](https://github.com/danielTeniente/guia_de_competencia#readme) en español.
  * Inteligencia artificial y ciencias de datos: Tengo un [repositorio de proyectos](https://github.com/danielTeniente/ia-projects#readme) con algunos notebooks donde explico estos temas.
+ * Tengo un buscador sobre PDFs: [pdfSearch](https://github.com/danielTeniente/pdfSearch) que utiliza una capa OCR para poder leer cualquier PDF sin importar el formato. Programado en Python, utiliza Tesseract y OpenCV.
  * Python en general: Me gusta Python, es mi lenguaje de programación principal.
 
 🌱 Estoy interesado en...
