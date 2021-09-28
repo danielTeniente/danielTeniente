@@ -31,9 +31,12 @@ Mi nombre es Daniel Díaz, soy de Ecuador y me gradué como Ingeniero en sistema
 * Matemática avanzada
 * Software libre
 
-⚡ Proyecto de titulación
+⚡ Proyectos realizados durante mi carrera universitaria
 * Mi [proyecto capstone](https://github.com/danielTeniente/proyecto_capstone#readme) trata sobre visión artificial y teoría de grafos. Implementa un contador automático de vehículos para modelar el tráfico de la ciudad.
 * También preparé un [taller sobre detección de objetos](https://github.com/danielTeniente/tallerIA_detection#readme) para mi universidad.
+* [Aplicación en flask para agendar tareas](https://github.com/danielTeniente/FlaskIngWeb)
+* [React native para consumir una API](https://github.com/danielTeniente/webServices), también hice un [video tutorial](https://www.youtube.com/watch?v=KAf-W3ZroE0) al respecto.
+* [Ejemplo de cómo usar el módulo de cámara en React Native](https://github.com/danielTeniente/reactNativeCamera), también hice un [tutorial](https://www.youtube.com/watch?v=X6Y6HjXtKfQ).
 
 
 [EN]
