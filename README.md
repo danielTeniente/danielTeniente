@@ -21,6 +21,10 @@ Mi nombre es Daniel Díaz, soy de Ecuador y me gradué como Ingeniero en sistema
 * [Forecasting Univariate Solar Irradiance using Machine learning models: A case study of two Andean Cities](https://doi.org/10.1016/j.enconman.2023.117618)
 * [MAPPING PUBLIC SPACE MICRO-OCCUPATIONS: Drone-Driven Predictions of Spatial Behaviors in Carapungo, Quito](https://doi.org/10.1177/23998083241262548)
 
+🤖 Mi libro sobre inteligencia artificial para principiantes:
+* [Atrapado en redes neuronales](https://payhip.com/b/Vtn4Z):
+
+
 🔭 Algunos proyectos de **Software**
  * [Curso de inteligencia artificial](https://github.com/danielTeniente/curso-IA) en español con python.
  * Programación competitiva: Tengo una [guía de programación](https://github.com/danielTeniente/guia_de_competencia#readme) en español.
